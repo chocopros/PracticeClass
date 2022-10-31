@@ -133,3 +133,5 @@ console.log(employee1.toString())
 //? TEST TYPE EMPLOYEE
 let client1 = new Client("anmy","moreno",30,"2022/10/30")
 console.log(client1.toString())
+
+
